@@ -8,7 +8,7 @@ This project was developed as part of the Analytics Club Datathon at AU. The obj
 
 In subsequent phases, macroeconomic indicators are incorporated to evaluate the influence of economic factors on metro systems.
 
-## Problem Statement
+# Problem Statement
 
 Metro systems globally face growing demands and infrastructure challenges. This project addresses the following:
 
@@ -17,7 +17,7 @@ Metro systems globally face growing demands and infrastructure challenges. This 
 3. Optimizing operations with actionable recommendations for increased efficiency.
 4. Exploring the impact of macroeconomic factors on metro systems (in the second phase).
 
-## Project Components
+# Project Components
 
 ### 1. Data Analysis:
 
