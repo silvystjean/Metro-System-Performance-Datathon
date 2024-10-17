@@ -1,6 +1,6 @@
 # Metro System Performance Datathon
 
-## Team Name: Deep Learners
+### Team Name: Deep Learners
 
 # Overview
 
@@ -19,38 +19,47 @@ Metro systems globally face growing demands and infrastructure challenges. This 
 
 ## Project Components
 
-# 1. Data Analysis:
+### 1. Data Analysis:
+
 - Analyze annual ridership trends.
 - Visualize metro system lengths globally and explore trends in system expansion.
 - Investigate the relationship between system size and ridership.
 - Compare metro adoption across developed and developing countries.
 - Highlight the top 10 metro systems by ridership. conditions affect metro system growth and operational decisions.
 
-## 2. Predictive Modeling:
+### 2. Predictive Modeling:
+
 - Build models to forecast future ridership using historical data.
 
-## 3. Recommendations:
+### 3. Recommendations:
+
 - Provide actionable insights to improve metro performance and increase ridership.
 
-## 4. Optional Economic Analysis:
+### 4. Optional Economic Analysis:
+
 - Integrate macroeconomic indicators (e.g., GDP, inflation, unemployment) with the metro dataset.
 - Assess how economic conditions affect metro system growth and operational decisions.
 
 # Evaluation Criteria
 
-## Data Visualization Quality:
+### Data Visualization Quality:
+
 - Effective use of charts and graphs to present trends and insights.
 
-## Technical Accuracy:
+### Technical Accuracy:
+
 - Predictive model performance and appropriate feature selection.
 
-## Storytelling and Recommendations:
+### Storytelling and Recommendations:
+
 - Strong narrative linking analysis to recommendations, emphasizing creativity and impact.
 
-## Overall Impact:
+### Overall Impact:
+
 - Solutions aimed at improving operational efficiency, customer satisfaction, and congestion management.
 
-## Presentation:
+### Presentation:
+
 - Clarity and professionalism in delivering key findings to the judging panel.
 
 # Data Disclaimer
