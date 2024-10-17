@@ -18,7 +18,7 @@ Optimizing operations with actionable recommendations for increased efficiency.
 Exploring the impact of macroeconomic factors on metro systems (in the second phase).
 Project Components
 
-##Data Analysis:
+## Data Analysis:
 
 Analyze annual ridership trends.
 Visualize metro system lengths globally and explore trends in system expansion.
