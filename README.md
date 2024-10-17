@@ -1,8 +1,8 @@
-## Metro System Performance Datathon
+# Metro System Performance Datathon
 
-Team Name: Deep Learners
+## Team Name: Deep Learners
 
-Overview
+# Overview
 
 This project was developed as part of the Analytics Club Datathon at AU. The objective is to analyze and forecast metro system performance using ridership and infrastructure data. The project provides insights into current trends, forecasts future ridership, and recommends strategies to improve efficiency and growth.
 
@@ -26,33 +26,33 @@ Metro systems globally face growing demands and infrastructure challenges. This 
 - Compare metro adoption across developed and developing countries.
 - Highlight the top 10 metro systems by ridership. conditions affect metro system growth and operational decisions.
 
-# 2. Predictive Modeling:
+## 2. Predictive Modeling:
 - Build models to forecast future ridership using historical data.
 
-# 3. Recommendations:
+## 3. Recommendations:
 - Provide actionable insights to improve metro performance and increase ridership.
 
-# 4. Optional Economic Analysis:
+## 4. Optional Economic Analysis:
 - Integrate macroeconomic indicators (e.g., GDP, inflation, unemployment) with the metro dataset.
 - Assess how economic conditions affect metro system growth and operational decisions.
 
-## Evaluation Criteria
+# Evaluation Criteria
 
-# Data Visualization Quality:
+## Data Visualization Quality:
 - Effective use of charts and graphs to present trends and insights.
 
-# Technical Accuracy:
+## Technical Accuracy:
 - Predictive model performance and appropriate feature selection.
 
-# Storytelling and Recommendations:
+## Storytelling and Recommendations:
 - Strong narrative linking analysis to recommendations, emphasizing creativity and impact.
 
-# Overall Impact:
+## Overall Impact:
 - Solutions aimed at improving operational efficiency, customer satisfaction, and congestion management.
 
-# Presentation:
+## Presentation:
 - Clarity and professionalism in delivering key findings to the judging panel.
 
-## Data Disclaimer
+# Data Disclaimer
 
 The data used in this project is for educational purposes only. It was sourced from an online platform and assumes 2020 as the GDP year. The data does not correspond to any specific organization, and the team is not responsible for its accuracy.
