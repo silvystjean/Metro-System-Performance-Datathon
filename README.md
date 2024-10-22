@@ -29,7 +29,7 @@ Metro systems globally face growing demands and infrastructure challenges. This 
 
 ### 5. Visual Insights:
 
-![Distribution of Metro Ridership](screen1.gif)
+![Distribution of Metro Ridership](images/screen1.gif)
 
 The above image (screen1.gif) provides a visual representation of the distribution of metro ridership across different systems. This animated visualization helps to illustrate the varying levels of ridership among different metro systems, highlighting the disparity between highly utilized networks and those with lower ridership. Such a visualization can offer valuable insights into the performance and popularity of different metro systems, aiding in the identification of successful models and areas for potential improvement.
 
