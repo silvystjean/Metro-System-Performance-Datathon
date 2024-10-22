@@ -27,22 +27,21 @@ Metro systems globally face growing demands and infrastructure challenges. This 
 - Compare metro adoption across developed and developing countries.
 - Highlight the top 10 metro systems by ridership. conditions affect metro system growth and operational decisions.
 
-### 5. Visual Insights:
+### 2. Visual Insights:
 
 ![Distribution of Metro Ridership](images/screen1.gif)
 
 The above image (screen1.gif) provides a visual representation of the distribution of metro ridership across different systems. This animated visualization helps to illustrate the varying levels of ridership among different metro systems, highlighting the disparity between highly utilized networks and those with lower ridership. Such a visualization can offer valuable insights into the performance and popularity of different metro systems, aiding in the identification of successful models and areas for potential improvement.
 
-
-### 2. Predictive Modeling:
+### 3. Predictive Modeling:
 
 - Build models to forecast future ridership using historical data.
 
-### 3. Recommendations:
+### 4. Recommendations:
 
 - Provide actionable insights to improve metro performance and increase ridership.
 
-### 4. Optional Economic Analysis:
+### 5. Optional Economic Analysis:
 
 - Integrate macroeconomic indicators (e.g., GDP, inflation, unemployment) with the metro dataset.
 - Assess how economic conditions affect metro system growth and operational decisions.
