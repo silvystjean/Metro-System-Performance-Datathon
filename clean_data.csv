@@ -1,0 +1,209 @@
+City,"Country
+region",Name,"Service
+opened","Last
+expanded",Exp_Dur,Stations,System_Length_Km,System_Length_ml,Annual_Ridership_(Millions),Annum
+London,United Kingdom,London Underground,1863,2021,158,272,402.00,249.8,1026.00,2022
+Chicago,United States,"Chicago ""L""",1892,2017,125,145,165.40,102.8,103.50,2022
+Paris,France,Paris Métro,1900,2022,122,308,226.90,141.0,1339.00,2022
+Berlin,Germany,Berlin U-Bahn,1902,2021,119,175,147.80,91.8,492.10,2022
+Athens,Greece,Athens Metro,1904,2022,118,66,91.70,57.0,259.20,2018
+Budapest,Hungary,Budapest Metro,1896,2014,118,48,38.20,23.7,211.60,2021
+Boston,United States,MBTA subway,1901,2014,113,51,61.00,37.9,81.00,2022
+New York City,United States,New York City Subway,1904,2017,113,424,399.00,247.9,1793.10,2022
+Hamburg,Germany,Hamburg U-Bahn,1912,2019,107,93,105.80,65.7,163.40,2020
+Buenos Aires,Argentina,Buenos Aires Underground,1913,2019,106,78,56.70,35.2,74.00,2020
+Madrid,Spain,Madrid Metro,1919,2019,100,242,293.90,182.6,447.80,2021
+Barcelona,Spain,Barcelona Metro,1924,2021,97,132,128.30,79.7,217.93,2019
+Tokyo,Japan,Tokyo Metro,1927,2020,93,142,195.10,121.2,2757.40,2019
+New York City,United States,Staten Island Railway,1925,2017,92,21,22.50,14.0,3.80,2022
+Moscow,Russia,Moscow Metro,1935,2023,88,289,461.50,286.8,2061.80,2022
+Osaka,Japan,Osaka Metro,1933,2006,73,100,129.90,80.7,870.40,2016
+Philadelphia,United States,SEPTA,1907,1973,66,72,59.10,36.7,41.20,2022
+Saint Petersburg,Russia,Saint Petersburg Metro,1955,2019,64,72,124.80,77.6,649.00,2022
+Toronto,Canada,Toronto Subway,1954,2017,63,75,76.90,47.8,235.70,2022
+Rome,Italy,Rome Metro,1955,2018,63,73,60.00,37.3,320.00,2018
+Milan,Italy,Milan Metro,1964,2022,58,112,102.50,63.7,386.80,2019
+Lisbon,Portugal,Lisbon Metro,1959,2016,57,50,44.20,27.5,184.60,2019
+Baku,Azerbaijan,Baku Metro,1967,2022,55,27,40.70,25.3,202.50,2022
+Rotterdam,Netherlands,Rotterdam Metro,1968,2023,55,71,103.10,64.1,99.00,2019
+Nagoya,Japan,Nagoya Municipal Subway,1957,2011,54,87,93.30,58.0,487.40,2019
+Kyiv,Ukraine,Kyiv Metro,1960,2013,53,52,67.70,42.1,496.10,2022
+Beijing,China,Beijing Subway,1971,2023,52,370,785.70,488.2,2292.65,2020
+Tbilisi,Georgia,Tbilisi Metro,1966,2017,51,23,28.60,17.8,78.40,2022
+Oslo,Norway,Oslo Metro,1966,2016,50,101,85.00,52.8,74.00,2020
+Nuremberg,Germany,Nuremberg U-Bahn,1972,2020,48,49,38.20,23.7,71.80,2021
+Seoul,South Korea,Seoul Metropolitan Subway,1974,2022,48,279,345.30,214.6,2127.20,2020
+San Francisco (Bay Area),United States,BART,1972,2020,48,47,191.50,119.0,39.60,2022
+São Paulo,Brazil,São Paulo Metro,1974,2021,47,89,104.40,64.9,1104.15,2022
+"Washington, D.C.",United States,Washington Metro,1976,2023,47,98,206.00,128.0,93.00,2022
+Tashkent,Uzbekistan,Tashkent Metro,1977,2023,46,48,59.10,36.7,136.70,2022
+Santiago,Chile,Santiago Metro,1975,2019,44,119,140.00,87.0,263.40,2020
+Stockholm,Sweden,Stockholm Metro,1950,1994,44,100,108.00,67.1,355.00,2018
+Philadelphia,United States,PATCO Speedline,1936,1980,44,13,22.90,14.2,4.90,2022
+Hong Kong,China,Mass Transit Railway,1979,2022,43,99,209.00,129.9,1616.30,2021
+Mexico City,Mexico,Mexico City Metro,1969,2012,43,163,200.88,124.8,935.20,2020
+Bucharest,Romania,Bucharest Metro,1979,2022,43,56,80.10,49.8,179.20,2019
+Marseille,France,Marseille Metro,1977,2019,42,29,22.70,14.1,57.90,2021
+Fukuoka,Japan,Fukuoka City Subway,1981,2023,42,36,31.40,19.5,173.30,2019
+Tokyo,Japan,Toei Subway,1960,2002,42,99,109.00,67.7,1174.90,2019
+Montreal,Canada,Montreal Metro,1966,2007,41,68,69.20,43.0,245.50,2022
+Prague,Czech Republic,Prague Metro,1974,2015,41,58,65.40,40.6,251.40,2020
+Amsterdam,Netherlands,Amsterdam Metro,1977,2018,41,39,41.20,25.6,111.30,2019
+Kharkiv,Ukraine,Kharkiv Metro,1975,2016,41,30,38.70,24.1,231.10,2022
+Helsinki,Finland,Helsinki Metro,1982,2022,40,30,43.00,26.7,60.40,2020
+Vienna,Austria,Vienna U-Bahn,1978,2017,39,98,83.30,51.8,459.80,2019
+Munich,Germany,Munich U-Bahn,1971,2010,39,96,95.00,59.0,254.00,2021
+Tianjin,China,Tianjin Metro,1984,2022,38,181,288.25,179.1,338.75,2020
+Kolkata,India,Kolkata Metro,1984,2022,38,40,46.96,29.2,256.00,2021
+Rio de Janeiro,Brazil,Rio de Janeiro Metro,1979,2016,37,41,58.00,36.0,118.70,2020
+Manila,Philippines,Manila Light Rail Transit System,1984,2021,37,33,37.20,23.1,218.20,2019
+Minsk,Belarus,Minsk Metro,1984,2020,36,33,40.80,25.4,225.90,2022
+Yokohama,Japan,Yokohama Municipal Subway,1972,2008,36,40,53.40,33.2,243.20,2019
+Cairo,Egypt,Cairo Metro,1987,2022,35,74,93.10,57.9,1314.00,2015
+Lyon,France,Lyon Metro,1978,2013,35,40,32.00,19.9,159.00,2021
+Singapore,Singapore,Mass Rapid Transit,1987,2022,35,134,230.20,143.0,766.50,2021
+Istanbul,Turkey,Istanbul Metro,1989,2023,34,128,199.20,123.8,757.00,2022
+Brussels,Belgium,Brussels Metro,1976,2009,33,59,39.90,24.8,96.30,2021
+Nizhny Novgorod,Russia,Nizhny Novgorod Metro,1985,2018,33,15,21.82,13.6,29.90,2022
+Busan,South Korea,Busan Metro,1985,2017,32,108,139.90,86.9,361.00,2019
+Caracas,Venezuela,Caracas Metro,1983,2015,32,49,67.20,41.8,358.00,2017
+Vancouver,Canada,SkyTrain,1985,2016,31,53,79.60,49.5,116.60,2022
+Guadalajara,Mexico,Guadalajara Electric Rail System,1989,2020,31,46,46.50,28.9,114.50,2021
+Monterrey,Mexico,Metrorrey,1991,2021,30,38,40.20,25.0,109.90,2020
+Porto Alegre,Brazil,Porto Alegre Metro,1985,2014,29,22,43.80,27.2,48.10,2019
+New York City,United States,PATH,1908,1937,29,13,22.20,13.8,45.50,2022
+Shanghai,China,Shanghai Metro,1993,2021,28,403,795.50,494.3,2834.69,2020
+Naples,Italy,Naples Metro,1993,2021,28,27,30.80,19.1,41.10,2019
+Sapporo,Japan,Sapporo Municipal Subway,1971,1999,28,46,48.00,29.8,226.90,2019
+Sendai,Japan,Sendai Subway,1987,2015,28,29,28.70,17.8,91.70,2019
+Seoul,South Korea,Korail metro lines,1994,2022,28,86,151.70,94.3,426.40,2019
+Samara,Russia,Samara Metro,1987,2015,28,10,11.60,7.2,11.20,2022
+Miami,United States,Metrorail,1984,2012,28,23,39.30,24.4,12.00,2022
+Kyoto,Japan,Kyoto Municipal Subway,1981,2008,27,31,31.20,19.4,146.40,2019
+Kuala Lumpur,Malaysia,Rapid KL,1996,2023,27,129,196.20,121.9,19.50,2020
+Warsaw,Poland,Warsaw Metro,1995,2022,27,38,41.30,25.7,195.40,2019
+Ankara,Turkey,Ankara Metro,1997,2023,26,57,67.40,41.9,66.40,2020
+Guangzhou,China,Guangzhou Metro,1997,2022,25,254,617.05,383.4,2415.60,2020
+Bilbao,Spain,Metro Bilbao,1995,2020,25,42,45.10,28.0,91.60,2019
+Recife,Brazil,Recife Metro,1985,2009,24,28,39.50,24.5,93.50,2019
+Tehran,Iran,Tehran Metro,1999,2023,24,123,168.20,104.5,820.00,2018
+Kobe,Japan,Kobe Municipal Subway,1977,2001,24,28,38.10,23.7,114.20,2019
+Novosibirsk,Russia,Novosibirsk Metro,1986,2010,24,14,15.90,9.9,77.30,2022
+Taipei,Taiwan,Taipei Metro,1996,2020,24,119,146.20,90.8,695.70,2020
+London,United Kingdom,Docklands Light Railway,1987,2011,24,45,34.00,21.1,39.90,2020
+Sofia,Bulgaria,Sofia Metro,1998,2021,23,44,52.00,32.3,92.40,2019
+Catania,Italy,Catania Metro,1999,2021,22,10,8.80,5.5,5.80,2018
+Genoa,Italy,Genoa Metro,1990,2012,22,8,7.10,4.4,15.30,2018
+Bangkok,Thailand,BTS Skytrain,1999,2021,22,60,68.20,42.4,236.90,2020
+Hiroshima,Japan,Astram Line,1994,2015,21,22,18.40,11.4,24.00,2019
+Incheon,South Korea,Incheon Subway,1999,2020,21,56,59.40,36.9,116.00,2019
+Yekaterinburg,Russia,Yekaterinburg Metro,1991,2012,21,9,12.70,7.9,38.90,2022
+Atlanta,United States,MARTA,1979,2000,21,38,76.60,47.6,28.20,2022
+Dalian,China,Dalian Metro,2003,2023,20,99,237.74,147.7,125.22,2020
+Rennes,France,Rennes Metro,2002,2022,20,28,22.40,13.9,32.70,2021
+Delhi,India,Delhi Metro,2002,2022,20,230,348.12,216.3,1790.00,2019
+Brasília,Brazil,Federal District Metro,2001,2020,19,27,42.38,26.3,42.80,2019
+Chongqing,China,Chongqing Rail Transit,2004,2023,19,238,485.02,301.4,839.75,2020
+Shenzhen,China,Shenzhen Metro,2004,2022,18,303,547.42,340.2,2178.00,2021
+Wuhan,China,Wuhan Metro,2004,2022,18,254,460.94,286.4,1012.70,2021
+Copenhagen,Denmark,Copenhagen Metro,2002,2020,18,39,38.20,23.7,107.00,2022
+Daegu,South Korea,Daegu Metro,1997,2015,18,88,82.90,51.5,168.00,2019
+Nanjing,China,Nanjing Metro,2005,2022,17,191,449.45,279.3,801.34,2020
+Medellín,Colombia,Medellín Metro,1995,2012,17,27,31.30,19.5,215.20,2022
+Lille,France,Lille Metro,1983,2000,17,60,45.00,28.0,89.30,2021
+Belo Horizonte,Brazil,Belo Horizonte Metro,1986,2002,16,19,28.10,17.5,54.40,2019
+Yerevan,Armenia,Yerevan Metro,1981,1996,15,10,12.10,7.5,23.30,2022
+Turin,Italy,Turin Metro,2006,2021,15,23,15.10,9.4,42.50,2018
+Bangkok,Thailand,Metropolitan Rapid Transit,2004,2019,15,53,71.00,44.1,95.30,2020
+Toulouse,France,Toulouse Metro,1993,2007,14,37,28.20,17.5,84.40,2021
+Pyongyang,North Korea,Pyongyang Metro,1973,1987,14,17,22.50,14.0,36.00,2009
+?zmir,Turkey,?zmir Metro,2000,2014,14,17,20.00,12.4,100.00,2019
+Kazan,Russia,Kazan Metro,2005,2018,13,11,16.80,10.4,30.50,2022
+Cleveland,United States,Red Line (RTA Rapid Transit),1955,1968,13,18,31.00,19.3,2.80,2022
+Foshan,China,Foshan Metro,2010,2022,12,61,112.70,70.0,,
+Bangalore,India,Namma Metro,2011,2023,12,63,68.60,42.6,174.22,2020
+Bursa,Turkey,Bursaray,2002,2014,12,39,38.90,24.2,91.30,2010
+Dubai,United Arab Emirates,Dubai Metro,2009,2021,12,53,89.30,55.5,113.60,2020
+Baltimore,United States,Baltimore Metro SubwayLink,1983,1995,12,14,24.90,15.5,2.00,2022
+Xi'an,China,Xi'an Metro,2011,2022,11,173,278.50,173.1,731.04,2020
+Almaty,Kazakhstan,Almaty Metro,2011,2022,11,11,13.40,8.3,17.10,2022
+Seoul,South Korea,Shinbundang Line (Neo Trans),2011,2022,11,16,33.40,20.8,122.50,2019
+Changchun,China,Changchun Rail Transit,2011,2021,10,59,72.60,45.1,154.37,2020
+Chengdu,China,Chengdu Metro,2010,2020,10,284,518.50,322.2,1800.00,2021
+Hangzhou,China,Hangzhou Metro,2012,2022,10,254,516.20,320.8,582.41,2020
+Kunming,China,Kunming Metro,2012,2022,10,103,164.30,102.1,159.26,2020
+Shenyang,China,Shenyang Metro,2010,2020,10,85,115.90,72.0,316.28,2020
+Suzhou,China,Suzhou Rail Transit,2012,2021,9,154,208.20,129.4,308.57,2020
+Zhengzhou,China,Zhengzhou Metro,2013,2022,9,143,232.50,144.5,341.01,2020
+Santo Domingo,Dominican Republic,Santo Domingo Metro,2009,2018,9,33,31.00,19.3,49.60,2020
+Mumbai,India,Mumbai Metro,2014,2023,9,40,46.40,28.8,126.00,2021
+Shiraz,Iran,Shiraz Metro,2014,2023,9,22,32.50,20.2,18.00,2018
+Panama City,Panama,Panama Metro,2014,2023,9,31,39.30,24.4,49.90,2020
+Changsha,China,Changsha Metro,2014,2022,8,135,207.90,129.2,385.76,2020
+Harbin,China,Harbin Metro,2013,2021,8,62,79.40,49.3,51.33,2020
+Ningbo,China,Ningbo Rail Transit,2014,2022,8,116,185.36,115.2,159.86,2020
+Mashhad,Iran,Mashhad Urban Railway,2011,2019,8,35,37.50,23.3,50.70,2018
+Algiers,Algeria,Algiers Metro,2011,2018,7,19,18.50,11.5,45.30,2019
+Qingdao,China,Qingdao Metro,2015,2022,7,146,315.86,196.3,139.09,2020
+Wuxi,China,Wuxi Metro,2014,2021,7,80,114.80,71.3,87.22,2020
+Los Angeles,United States,Metro Rail,1993,2000,7,16,28.00,17.4,25.80,2022
+Fuzhou,China,Fuzhou Metro,2016,2022,6,74,114.20,71.0,94.75,2020
+Hefei,China,Hefei Metro,2016,2022,6,133,170.95,106.2,195.07,2020
+Nanchang,China,Nanchang Metro,2015,2021,6,94,128.30,79.7,135.93,2020
+Chennai,India,Chennai Metro,2015,2021,6,42,54.00,33.6,42.00,2021
+Tokyo,Japan,Rinkai Line,1996,2002,6,8,12.20,7.6,95.00,2019
+Nanning,China,Nanning Metro,2016,2021,5,93,128.20,79.7,208.41,2020
+Jaipur,India,Jaipur Metro,2015,2020,5,11,12.00,7.5,7.00,2021
+Kochi,India,Kochi Metro,2017,2022,5,24,27.40,17.0,17.00,2021
+Tabriz,Iran,Tabriz Metro,2015,2020,5,18,17.20,10.7,,
+Salvador,Brazil,Salvador Metro,2014,2018,4,19,32.50,20.2,62.00,2020
+Guiyang,China,Guiyang Metro,2017,2021,4,55,75.70,47.0,36.98,2020
+Shijiazhuang,China,Shijiazhuang Metro,2017,2021,4,60,76.50,47.5,71.71,2020
+Xiamen,China,Xiamen Metro,2017,2021,4,66,98.40,61.1,113.97,2020
+Gurgaon,India,Rapid Metro Gurgaon,2013,2017,4,11,12.80,8.0,18.30,2018
+Yokohama,Japan,Minatomirai Line,2004,2008,4,6,4.10,2.6,80.60,2019
+Gwangju,South Korea,Gwangju Metro,2004,2008,4,20,20.10,12.5,19.00,2019
+Kaohsiung,Taiwan,Kaohsiung Metro,2008,2012,4,37,42.70,26.5,65.40,2019
+Ahmedabad,India,Ahmedabad Metro,2019,2022,3,31,37.86,23.5,0.40,2021
+Hyderabad,India,Hyderabad Metro,2017,2020,3,56,69.00,42.9,173.00,2021
+Nagpur,India,Nagpur Metro,2019,2022,3,36,38.20,23.7,4.00,2021
+Isfahan,Iran,Isfahan Urban Railway,2015,2018,3,20,20.20,12.6,,
+Lima,Peru,Lima Metro,2011,2014,3,26,34.60,21.5,110.40,2018
+Changzhou,China,Changzhou Metro,2019,2021,2,43,54.03,33.6,22.82,2020
+Jinan,China,Jinan Metro,2019,2021,2,40,84.25,52.4,8.68,2020
+Xuzhou,China,Xuzhou Metro,2019,2021,2,51,64.35,40.0,20.94,2020
+Lucknow,India,Lucknow Metro,2017,2019,2,21,22.87,14.2,22.00,2021
+Fortaleza,Brazil,Fortaleza Metro,2012,2013,1,20,24.10,15.0,11.70,2018
+Hohhot,China,Hohhot Metro,2019,2020,1,43,49.04,30.5,21.30,2020
+Jinhua,China,Jinhua Rail Transit,2022,2023,1,32,118.50,73.6,,
+Shaoxing,China,Shaoxing Metro,2021,2022,1,28,47.10,29.3,,
+Ürümqi,China,Ürümqi Metro,2018,2019,1,21,27.62,17.2,19.11,2020
+Daejeon,South Korea,Daejeon Metro,2006,2007,1,22,22.70,14.1,40.00,2019
+Manila,Philippines,Manila Metro Rail Transit System,1999,2000,1,13,16.90,10.5,96.90,2019
+Adana,Turkey,Adana Metro,2009,2010,1,13,13.90,8.6,14.00,2011
+San Juan,United States,Tren Urbano,2004,2005,1,16,17.20,10.7,2.50,2022
+Sydney,Australia,Sydney Metro,2019,2019,0,13,36.00,22.4,16.30,2022
+Dhaka,Bangladesh,Dhaka Metro Rail,2022,2022,0,9,11.70,7.3,,
+Dongguan,China,Dongguan Rail Transit,2016,2016,0,15,37.70,23.4,35.06,2020
+Lanzhou,China,Lanzhou Metro,2019,2019,0,20,25.90,16.1,52.48,2020
+Luoyang,China,Luoyang Subway,2021,2021,0,33,43.55,27.1,,
+Nantong,China,Nantong Metro,2022,2022,0,28,39.18,24.4,,
+Taiyuan,China,Taiyuan Metro,2020,2020,0,23,23.65,14.7,0.88,2020
+Taizhou,China,Taizhou Rail Transit,2022,2022,0,15,52.40,32.6,,
+Wenzhou,China,Wenzhou Rail Transit,2019,2019,0,18,53.51,33.3,7.01,2020
+Quito,Ecuador,Quito Metro,2023,2023,0,15,22.60,14.0,,
+Kanpur,India,Kanpur Metro,2021,2021,0,9,8.98,5.6,,
+Noida,India,Noida Metro,2019,2019,0,21,29.70,18.5,5.00,2021
+Pune,India,Pune Metro,2022,2022,0,10,12.00,7.5,,
+Jakarta,Indonesia,Jakarta MRT,2019,2019,0,13,15.70,9.8,19.70,2022
+Karaj,Iran,Karaj Metro[fa],2023,2023,0,2,6.50,4.0,,
+Brescia,Italy,Brescia Metro,2013,2013,0,17,13.70,8.5,18.70,2019
+Lagos,Nigeria,Lagos Rail Mass Transit,2023,2023,0,5,13.00,8.1,,
+Lahore,Pakistan,Lahore Metro,2020,2020,0,26,27.10,16.8,20.00,2020
+Doha,Qatar,Doha Metro,2019,2019,0,37,76.00,47.2,,
+Lausanne,Switzerland,Lausanne Métro,2008,2008,0,14,5.90,3.7,32.80,2019
+Taichung,Taiwan,Taichung Metro,2021,2021,0,18,16.70,10.4,,
+Taoyuan,Taiwan,Taoyuan Metro,2017,2017,0,22,53.10,33.0,28.00,2019
+Dnipro,Ukraine,Dnipro Metro,1995,1995,0,6,7.80,4.9,7.50,2022
+Glasgow,United Kingdom,Glasgow Subway,1896,1896,0,15,10.40,6.5,12.70,2019
+Hanoi,Vietnam,Hanoi Metro,2021,2021,0,12,13.10,8.1,7.50,2021
